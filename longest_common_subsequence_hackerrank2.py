@@ -1,3 +1,6 @@
+#question url: https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem
+
+
 import numpy as np
 n,m = list(map(int, input().split(' ')))
 x = input().split(' ')
